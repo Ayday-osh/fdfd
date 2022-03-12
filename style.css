@@ -1,0 +1,28 @@
+<html>
+    <title>Скелет</title>
+    <body style="background:lightblue;font-family:sans-serif">
+        <header style="background-color:white">
+            <img src="https://w7.pngwing.com/pngs/469/780/png-transparent-juice-ade-logo-ceramic-brand-juice-text-logo-sticker.png"height="100px"/>
+           <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BA" style="color:black">Всё про СОК</a>
+        </header>
+        <h1 style="font-size:50px; text-align:center">Я люблю ПИТЬ</h1>
+        <h2 style="font-size:40px; text-align:center">(Я ПРО ГАЗЕРОВКИ!!)</h2>
+        <p style="font-size:20px">Пить это класно.Это придает тебе сил и освежает твое горло,ДА ДА.</p>
+        <img src="https://img.akusherstvo.ru/images/magaz/im27380.jpg"/>
+    <table style="font-size:20px">
+        <tr>
+            <td></td>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>пей каждый день ОБЯЗАТЕЛЬНА!!!</td>
+            <td>невчем не отказывай себе</td>
+        </tr>
+    </table>
+    <footer>
+    <p style="font-size:15px"> Адрес: город Спортивный, ул.Здоровья, 15.</p>
+    <p>Тел.:596-457</p>
+    </footer>   
+    </body>
+</html>
